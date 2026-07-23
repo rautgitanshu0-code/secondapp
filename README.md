@@ -12,8 +12,8 @@ lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Lorem i
 - Introduction
 - Abstract
 - Objective
-   1.sub-Objective
-   2.Sub-Objective
+   1. sub-Objective
+   2. Sub-Objective
 - screen shot
 - Code
 - conclution
